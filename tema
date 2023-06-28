@@ -1,0 +1,17 @@
+{
+  "status": 200, 
+  "data": [
+    {
+      "user_id": 27, 
+      "value": "MANTENHA SEMPRE SEU APP ATUALIZADO", 
+      "id": 5141, 
+      "name": "app_message_text"
+    }, 
+    {
+      "user_id": 27, 
+      "value": "https://wa.me/5527997417632", 
+      "id": 2224, 
+      "name": "app_contact_link"
+    }
+  ]
+}
