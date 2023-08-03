@@ -15,7 +15,7 @@
     "WarnMsg":"ED7B68535C996EE1E4D68FA753FA5633",
     "ReleaseNotes":[
         "Anyvpn Mod",
-        "Update 0",
+        "Update 1",
         "ANYVPN MOD\n\nEntre em: @anyvpnmod\n\n"
     ],
     "VIP":"vip",
@@ -41,7 +41,7 @@
             "Certopen":"",
             "Dns1":"",
             "Dns2":"",
-            "UrlPainel":"http://204.216.183.44:9000/checkany",
+            "UrlPainel":"http://204.216.183.44:7766",
             "VPNMod":0,
             "VPNTunMod":1,
             "Info":"Websec:tim",
